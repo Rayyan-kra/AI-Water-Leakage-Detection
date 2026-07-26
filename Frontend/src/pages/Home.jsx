@@ -13,7 +13,7 @@ function Home() {
 
     try {
       const response = await axios.post(
-        "http://localhost:5000/api/analyze",
+        "https://ai-water-leakage-detection.onrender.com",
         data,
       );
 
