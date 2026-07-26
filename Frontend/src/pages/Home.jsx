@@ -12,11 +12,10 @@ function Home() {
     setLoading(true);
 
     try {
-      const response = await axios.post(
-        "https://ai-water-leakage-detection.onrender.com",
-        data,
+    const response = await axios.post(
+      "https://ai-water-leakage-detection.onrender.com/api/analyze",
+      data,
       );
-
       if (!response.data.success) {
         throw new Error("AI analysis failed");
       }
