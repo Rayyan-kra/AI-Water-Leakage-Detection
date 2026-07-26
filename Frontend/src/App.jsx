@@ -17,7 +17,7 @@ function App() {
       </video>
 
       {/* Dark Overlay */}
-      <div className="fixed inset-0 bg-slate-950/75 -z-10"></div>
+      <div className="fixed inset-0 bg-slate-950/5 -z-10"></div>
 
       {/* Content */}
       <Navbar />
