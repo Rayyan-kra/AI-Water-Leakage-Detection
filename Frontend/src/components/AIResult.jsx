@@ -43,7 +43,7 @@ function AIResult({ result, loading }) {
 
   if (!result) {
     return (
-      <div className="bg-slate-800/ backdrop-blur-xl border border-slate-700 rounded-3xl shadow-2xl p-8 h-full">
+      <div className="bg-slate-800/30 backdrop-blur-xl border border-slate-700 rounded-3xl shadow-2xl p-8 h-full">
         <div className="flex items-center gap-3 mb-8">
           <div className="bg-cyan-500 p-3 rounded-xl">
             <Brain className="text-white" size={22} />

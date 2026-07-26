@@ -13,7 +13,7 @@ function StatsCard({ title, value, color }) {
       className="
         relative
         overflow-hidden
-        bg-slate-900/
+        bg-slate-900/30
         backdrop-blur-xl
         border border-slate-700/70
         rounded-3xl
