@@ -6,9 +6,7 @@ An AI-powered water pipeline monitoring system that analyzes sensor data to dete
 
 ## 🚀 Live Demo
 
-**Frontend:** https://your-vercel-link.vercel.app
-
-**Backend API:** https://your-render-link.onrender.com
+**Frontend:** [https://your-vercel-link.vercel.app](https://ai-water-leakage-detection.vercel.app/)
 
 ---
 
@@ -199,9 +197,11 @@ AI-Water-Leakage-Detection
 
 ## 👨‍💻 Developer
 
-**Rayyan Chaman**
+Rayyan Chaman
 
 B.Tech Computer Science Engineering Student
+
+Developed as part of the 1M1B Green Skills & Applied AI Internship.
 
 ---
 
